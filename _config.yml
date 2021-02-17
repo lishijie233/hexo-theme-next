@@ -195,12 +195,12 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: fa fa-link
-  title: Links
+  title: 友链#Links
   # Available values: block | inline
   layout: block
 
 links:
-  #Title: http://yoursite.com
+  Title: http://lishijie233.com
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
