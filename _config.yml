@@ -195,7 +195,7 @@ social_icons:
 # Blog rolls
 links_settings:
   icon: fa fa-link
-  title: 友链#Links
+  title: 友链君 #Links
   # Available values: block | inline
   layout: block
 
